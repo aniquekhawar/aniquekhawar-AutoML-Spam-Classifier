@@ -20,7 +20,7 @@ A flask application that uses Google's Natural Language AutoML to get a predicti
 
 7.     make install
 8.     python main.py
-9. Navigate to your local address and test out your model on a local environment.
+9.     Navigate to your local address and test out your model on a local environment.
 
 ## Gotchas
 > If you are having issues with permissions when running predictions (i.e. 403 errors), you can create a service account and generate an API key (service_account.json). From there, run the following 2 commands to set-up your shell environment for running predictions.
